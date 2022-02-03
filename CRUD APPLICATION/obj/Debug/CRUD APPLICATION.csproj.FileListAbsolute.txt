@@ -1,0 +1,38 @@
+E:\office\EntityFramework\CRUD APPLICATION\bin\CRUD APPLICATION.dll.config
+E:\office\EntityFramework\CRUD APPLICATION\bin\CRUD APPLICATION.dll
+E:\office\EntityFramework\CRUD APPLICATION\bin\CRUD APPLICATION.pdb
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\csc.exe
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\csc.exe.config
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\csc.rsp
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\csi.exe
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\csi.rsp
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\System.AppContext.dll
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\System.Collections.Immutable.dll
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\System.IO.FileSystem.dll
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\System.Reflection.Metadata.dll
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\vbc.exe
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\vbc.exe.config
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\vbc.rsp
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\VBCSCompiler.exe
+E:\office\EntityFramework\CRUD APPLICATION\bin\roslyn\VBCSCompiler.exe.config
+E:\office\EntityFramework\CRUD APPLICATION\bin\EntityFramework.dll
+E:\office\EntityFramework\CRUD APPLICATION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\office\EntityFramework\CRUD APPLICATION\bin\EntityFramework.xml
+E:\office\EntityFramework\CRUD APPLICATION\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\office\EntityFramework\CRUD APPLICATION\obj\Debug\CRUD APPLICATION.csproj.AssemblyReference.cache
+E:\office\EntityFramework\CRUD APPLICATION\obj\Debug\CRUD APPLICATION.csproj.CoreCompileInputs.cache
+E:\office\EntityFramework\CRUD APPLICATION\obj\Debug\CRUD APPLICATION.csproj.CopyComplete
+E:\office\EntityFramework\CRUD APPLICATION\obj\Debug\CRUD APPLICATION.dll
+E:\office\EntityFramework\CRUD APPLICATION\obj\Debug\CRUD APPLICATION.pdb
