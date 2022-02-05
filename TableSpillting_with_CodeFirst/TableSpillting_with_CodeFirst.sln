@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableSpillting_with_CodeFirst", "TableSpillting_with_CodeFirst.csproj", "{60C812D1-959D-40DF-AC06-F1E6026BA0DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60C812D1-959D-40DF-AC06-F1E6026BA0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C812D1-959D-40DF-AC06-F1E6026BA0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C812D1-959D-40DF-AC06-F1E6026BA0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C812D1-959D-40DF-AC06-F1E6026BA0DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {029B74D7-A06C-481C-BD11-940E1D78B485}
+	EndGlobalSection
+EndGlobal

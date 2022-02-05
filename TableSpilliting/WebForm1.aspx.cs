@@ -29,8 +29,9 @@ namespace TableSpilliting
         private DataTable GetEmployeeDataIncludingContactDetails() {
             EmployeeDBContext employeeDBContext = new EmployeeDBContext();
 
-            List<Employee> employees = employeeDBContext.Employees.Include("EmployeeContactDetails").ToList();
-            
+            List<Employee> emp = employeeDBContext.Employees.Include("EmployeeContactDetail").ToList();
+
+
             DataTable dt = new DataTable();
             DataColumn[] dataColumns = {
                                  new DataColumn("EmployeeId"),
@@ -41,7 +42,7 @@ namespace TableSpilliting
                                  new DataColumn("Mobile"),
                                  new DataColumn("LandLine")};
             dt.Columns.AddRange(dataColumns);
-            foreach (Employee employee in employees) {
+            foreach (Employee employee in emp) {
 
                 DataRow dr =  dt.NewRow();
                 dr["EmployeeId"] = employee.EmployeeID;
